@@ -10,7 +10,7 @@ export default async function HomePage() {
     
   });
 
-  console.log(images);
+  // console.log(images);
 
   return (
     <main className="">
